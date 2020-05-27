@@ -1,0 +1,180 @@
+body {
+    background-color: rgb(208, 196, 238);
+    font-family: "Courier New", Courier, monospace;
+    color: #775919;
+    text-align: center;
+    width: 100%;
+}
+
+div {
+    height: 50px;
+}
+
+.box {
+    position: fixed;
+    width: 96%;
+    height: 100px;
+    border: 10px;
+    border-style: solid;
+    border-color: #775919;
+    background: rgb(255, 255, 255);
+    z-index: 1;
+    font-weight: bolder;
+}
+
+.box2 {
+    position: absolute;
+    width: 20%;
+    height: 50%;
+    border-style: solid;
+    border-color: hsla(256, 100%, 10%, 1);
+    text-align: center;
+    left: 5%;
+    background: rgb(168, 167, 167);
+    margin-left: 0em;
+    top: 7%;
+    text-decoration: none;
+    font-size: 100%;
+    padding-top: 3%;
+}
+
+.box3 {
+    position: absolute;
+    width: 20%;
+    height: 50%;
+    border-style: solid;
+    border-color: hsla(256, 100%, 10%, 1);
+    text-align: center;
+    left: 40%;
+    background: rgb(168, 167, 167);
+    top: 7%;
+    padding-top: 3%;
+    text-decoration: none;
+}
+
+.box4 {
+    position: absolute;
+    width: 20%;
+    height: 50%;
+    border-style: solid;
+    border-color: hsla(256, 100%, 10%, 1);
+    text-align: center;
+    left: 75%;
+    background: rgb(168, 167, 167);
+    text-decoration: none;
+    top: 7%;
+    padding-top: 3%;
+}
+
+.linkhomes {
+    color: hsla(256, 100%, 10%, 1);
+    text-decoration: none;
+}
+
+.linkhomes:hover {
+    color: lightgrey;
+}
+
+.div0 {
+    position: absolute;
+    width: 150px;
+    height: 84.38px;
+    text-align: justify;
+    left: 60%
+}
+
+.img2 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    text-align: justify;
+    border: 10px;
+    border-color: rgb(128, 93, 40);
+    border-style: solid;
+    box-shadow: 3px 3px 3px hsla(256, 100%, 10%, 1);
+    border-radius: 10px 10px;
+}
+
+h1 {
+    color: hsla(256, 100%, 10%, 1);
+}
+
+.img {
+    position: absolute;
+    width: 150px;
+    height: 84.38px;
+    border: 10px;
+    border-color: rgb(128, 93, 40);
+    border-style: solid;
+    box-shadow: 3px 3px 3px hsla(256, 100%, 10%, 1);
+    border-radius: 10px 10px;
+}
+
+.div1 {
+    position: absolute;
+    left: 200px;
+    width: 150px;
+    height: 150px;
+    text-align: justify;
+    padding-top: 3%;
+}
+
+.div2 {
+    position: absolute;
+    left: 400px;
+    padding-top: 23%;
+}
+
+.div3 {
+    position: absolute;
+    left: 600px;
+}
+
+.div4 {
+    position: absolute;
+    left: 800px;
+}
+
+.img3 {
+    width: 256px;
+    height: 170.6px;
+    border: 10px;
+    border-color: rgb(128, 93, 40);
+    border-style: solid;
+    box-shadow: 3px 3px 3px hsla(256, 100%, 10%, 1);
+    border-radius: 10px 10px;
+}
+
+.justify {
+    text-align: start;
+    width: 300px;
+}
+
+.titre {
+    margin-bottom: 0px;
+}
+
+.imgmortel {
+    position: absolute;
+    height: 200px;
+    right: 10%;
+}
+
+.imgomb {
+    position: absolute;
+    height: 180px;
+    right: 10%;
+}
+
+.imgmg {
+    position: absolute;
+    height: 170px;
+    right: 10%;
+}
+
+.linkwiki:hover {
+    border: 10px;
+    border-color: #775919;
+    border-style: solid;
+    box-shadow: 4px -4px 4px hsla(256, 100%, 10%, 0.5);
+}
